@@ -1,0 +1,23 @@
+section {
+  width: 400px;
+  background-color: lightgreen;
+  border: 2px solid brown;
+  left: 400px;
+}
+legend {
+  font-weight: bold;
+  color: brown;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+#mapa {
+  left: 400px;
+}
+#borrar {
+  width: 100px;
+  height: 60px;
+  background-color: lightgreen;
+  color: brown;
+}
